@@ -1,0 +1,25 @@
+_repo: Boy-Scouts--Tenderfoot-Squador-Camping-at-Raccoon-Lodge_38300
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38300-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Douglas, Alan, Captain
+    gutenberg_agent_id: '9336'
+    url: http://www.gutenberg.org/2009/agents/9336
+description: ''
+gutenberg_issued: '2011-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38300'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Boy Scouts of America -- Juvenile fiction'
+- !lcsh 'Camping -- Juvenile fiction'
+title: 'Boy Scouts: Tenderfoot Squad; or, Camping at Raccoon Lodge'
+url: http://www.gutenberg.org/ebooks/38300
